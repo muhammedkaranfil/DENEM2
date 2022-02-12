@@ -36,8 +36,8 @@ namespace MyApp // Note: actual namespace depends on the project name.
         DateTime dt = DateTime.Now;
         
         // Console.WriteLine("dt");
-        object 01 = "x";
-        object 02 = "y";
+        object01 = "x";
+        object02 = "y";
         object03 = 4;
         object04 = 4.3;
         
