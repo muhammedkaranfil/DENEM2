@@ -1,0 +1,2 @@
+# DENEM2
+DEĞİŞKEN İFADELERİ
